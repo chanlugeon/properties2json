@@ -25,4 +25,4 @@ See [example][example].
 
 
 [jar]: https://raw.githubusercontent.com/chanlugeon/properties2json/master/properties2json.jar
-[example]: https://raw.githubusercontent.com/chanlugeon/properties2json/master/example
+[example]: https://github.com/chanlugeon/properties2json/tree/master/example

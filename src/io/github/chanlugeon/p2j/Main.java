@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import io.github.chanlugeon.p2j.generator.JsonGenerator;
 
-public final class Main {
+public class Main {
 
     public static void main(String[] paths) {
         welcome();
