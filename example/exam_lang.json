@@ -1,0 +1,1320 @@
+{
+  "item": {
+    "swordIron": {
+      "name": "Iron Sword"
+    },
+    "hatchetIron": {
+      "name": "Iron Axe"
+    },
+    "arrow": {
+      "name": "Arrow"
+    },
+    "fishCooked": {
+      "name": "Cooked Fish"
+    },
+    "chestplateCloth": {
+      "name": "Leather Tunic"
+    },
+    "emerald": {
+      "name": "Diamond"
+    },
+    "cauldron": {
+      "name": "Cauldron"
+    },
+    "reeds": {
+      "name": "Sugar Canes"
+    },
+    "speckledMelon": {
+      "name": "Glistering Melon"
+    },
+    "enderPearl": {
+      "name": "Ender Pearl"
+    },
+    "clay": {
+      "name": "Clay"
+    },
+    "hoeWood": {
+      "name": "Wooden Hoe"
+    },
+    "stick": {
+      "name": "Stick"
+    },
+    "seeds_pumpkin": {
+      "name": "Pumpkin Seeds"
+    },
+    "feather": {
+      "name": "Feather"
+    },
+    "dyePowder": {
+      "magenta": {
+        "name": "Magenta Dye"
+      },
+      "yellow": {
+        "name": "Dandelion Yellow"
+      },
+      "lime": {
+        "name": "Lime Dye"
+      },
+      "silver": {
+        "name": "Light Gray Dye"
+      },
+      "orange": {
+        "name": "Orange Dye"
+      },
+      "white": {
+        "name": "Bone Meal"
+      },
+      "pink": {
+        "name": "Pink Dye"
+      },
+      "purple": {
+        "name": "Purple Dye"
+      },
+      "black": {
+        "name": "Ink Sac"
+      },
+      "lightBlue": {
+        "name": "Light Blue Dye"
+      },
+      "brown": {
+        "name": "Cocoa Beans"
+      },
+      "gray": {
+        "name": "Gray Dye"
+      },
+      "green": {
+        "name": "Cactus Green"
+      },
+      "blue": {
+        "name": "Lapis Lazuli"
+      },
+      "red": {
+        "name": "Rose Red"
+      },
+      "cyan": {
+        "name": "Cyan Dye"
+      }
+    },
+    "string": {
+      "name": "String"
+    },
+    "wheat": {
+      "name": "Wheat"
+    },
+    "helmetDiamond": {
+      "name": "Diamond Helmet"
+    },
+    "bootsCloth": {
+      "name": "Leather Boots"
+    },
+    "magmaCream": {
+      "name": "Magma Cream"
+    },
+    "minecart": {
+      "name": "Minecart"
+    },
+    "bread": {
+      "name": "Bread"
+    },
+    "doorIron": {
+      "name": "Iron Door"
+    },
+    "diode": {
+      "name": "Redstone Repeater"
+    },
+    "sulphur": {
+      "name": "Gunpowder"
+    },
+    "helmetCloth": {
+      "name": "Leather Cap"
+    },
+    "leggingsCloth": {
+      "name": "Leather Pants"
+    },
+    "sugar": {
+      "name": "Sugar"
+    },
+    "brewingStand": {
+      "name": "Brewing Stand"
+    },
+    "minecartFurnace": {
+      "name": "Minecart with Furnace"
+    },
+    "yellowDust": {
+      "name": "Glowstone Dust"
+    },
+    "beefCooked": {
+      "name": "Steak"
+    },
+    "porkchopCooked": {
+      "name": "Cooked Porkchop"
+    },
+    "swordGold": {
+      "name": "Golden Sword"
+    },
+    "slimeball": {
+      "name": "Slimeball"
+    },
+    "eyeOfEnder": {
+      "name": "Eye of Ender"
+    },
+    "brick": {
+      "name": "Brick"
+    },
+    "clock": {
+      "name": "Clock"
+    },
+    "hoeGold": {
+      "name": "Golden Hoe"
+    },
+    "hatchetStone": {
+      "name": "Stone Axe"
+    },
+    "hoeStone": {
+      "name": "Stone Hoe"
+    },
+    "mushroomStew": {
+      "name": "Mushroom Stew"
+    },
+    "leggingsIron": {
+      "name": "Iron Leggings"
+    },
+    "leaves": {
+      "name": "Leaves"
+    },
+    "shears": {
+      "name": "Shears"
+    },
+    "coal": {
+      "name": "Coal"
+    },
+    "chestplateChain": {
+      "name": "Chain Chestplate"
+    },
+    "shovelGold": {
+      "name": "Golden Shovel"
+    },
+    "leggingsChain": {
+      "name": "Chain Leggings"
+    },
+    "charcoal": {
+      "name": "Charcoal"
+    },
+    "monsterPlacer": {
+      "name": "Spawn"
+    },
+    "fishingRod": {
+      "name": "Fishing Rod"
+    },
+    "fermentedSpiderEye": {
+      "name": "Fermented Spider Eye"
+    },
+    "shovelDiamond": {
+      "name": "Diamond Shovel"
+    },
+    "minecartChest": {
+      "name": "Minecart with Chest"
+    },
+    "snowball": {
+      "name": "Snowball"
+    },
+    "saddle": {
+      "name": "Saddle"
+    },
+    "bootsIron": {
+      "name": "Iron Boots"
+    },
+    "map": {
+      "name": "Map"
+    },
+    "chickenCooked": {
+      "name": "Cooked Chicken"
+    },
+    "book": {
+      "name": "Book"
+    },
+    "chestplateDiamond": {
+      "name": "Diamond Chestplate"
+    },
+    "shovelWood": {
+      "name": "Wooden Shovel"
+    },
+    "chickenRaw": {
+      "name": "Raw Chicken"
+    },
+    "swordDiamond": {
+      "name": "Diamond Sword"
+    },
+    "leather": {
+      "name": "Leather"
+    },
+    "bootsGold": {
+      "name": "Golden boots"
+    },
+    "goldNugget": {
+      "name": "Gold Nugget"
+    },
+    "hatchetGold": {
+      "name": "Golden Axe"
+    },
+    "shovelIron": {
+      "name": "Iron Shovel"
+    },
+    "bowl": {
+      "name": "Bowl"
+    },
+    "beefRaw": {
+      "name": "Raw Beef"
+    },
+    "bed": {
+      "name": "Bed"
+    },
+    "hatchetWood": {
+      "name": "Wooden Axe"
+    },
+    "chestplateGold": {
+      "name": "Golden Chestplate"
+    },
+    "leggingsGold": {
+      "name": "Golden Leggings"
+    },
+    "bucketLava": {
+      "name": "Lava bucket"
+    },
+    "doorWood": {
+      "name": "Wooden Door"
+    },
+    "swordWood": {
+      "name": "Wooden Sword"
+    },
+    "porkchopRaw": {
+      "name": "Raw Porkchop"
+    },
+    "cookie": {
+      "name": "Cookie"
+    },
+    "swordStone": {
+      "name": "Stone Sword"
+    },
+    "cake": {
+      "name": "Cake"
+    },
+    "milk": {
+      "name": "Milk"
+    },
+    "hatchetDiamond": {
+      "name": "Diamond Axe"
+    },
+    "emptyPotion": {
+      "name": "Water Bottle"
+    },
+    "ghastTear": {
+      "name": "Ghast Tear"
+    },
+    "melon": {
+      "name": "Melon"
+    },
+    "spiderEye": {
+      "name": "Spider Eye"
+    },
+    "fishRaw": {
+      "name": "Raw Fish"
+    },
+    "boat": {
+      "name": "Boat"
+    },
+    "helmetIron": {
+      "name": "Iron Helmet"
+    },
+    "hoeIron": {
+      "name": "Iron Hoe"
+    },
+    "blazePowder": {
+      "name": "Blaze Powder"
+    },
+    "netherStalkSeeds": {
+      "name": "Nether Wart"
+    },
+    "hoeDiamond": {
+      "name": "Diamond Hoe"
+    },
+    "paper": {
+      "name": "Paper"
+    },
+    "pickaxeWood": {
+      "name": "Wooden Pickaxe"
+    },
+    "chestplateIron": {
+      "name": "Iron Chestplate"
+    },
+    "bucket": {
+      "name": "Bucket"
+    },
+    "redstone": {
+      "name": "Redstone"
+    },
+    "sign": {
+      "name": "Sign"
+    },
+    "blazeRod": {
+      "name": "Blaze Rod"
+    },
+    "apple": {
+      "name": "Apple"
+    },
+    "seeds": {
+      "name": "Seeds"
+    },
+    "bootsDiamond": {
+      "name": "Diamond Boots"
+    },
+    "bootsChain": {
+      "name": "Chain Boots"
+    },
+    "leggingsDiamond": {
+      "name": "Diamond Leggings"
+    },
+    "helmetGold": {
+      "name": "Golden Helmet"
+    },
+    "pickaxeIron": {
+      "name": "Iron Pickaxe"
+    },
+    "potion": {
+      "name": "Potion"
+    },
+    "bucketWater": {
+      "name": "Water Bucket"
+    },
+    "ingotIron": {
+      "name": "Iron Ingot"
+    },
+    "helmetChain": {
+      "name": "Chain Helmet"
+    },
+    "appleGold": {
+      "name": "Golden Apple"
+    },
+    "bow": {
+      "name": "Bow"
+    },
+    "seeds_melon": {
+      "name": "Melon Seeds"
+    },
+    "flintAndSteel": {
+      "name": "Flint and Steel"
+    },
+    "bone": {
+      "name": "Bone"
+    },
+    "pickaxeStone": {
+      "name": "Stone Pickaxe"
+    },
+    "flint": {
+      "name": "Flint"
+    },
+    "egg": {
+      "name": "Egg"
+    },
+    "painting": {
+      "name": "Painting"
+    },
+    "pickaxeDiamond": {
+      "name": "Diamond Pickaxe"
+    },
+    "ingotGold": {
+      "name": "Gold Ingot"
+    },
+    "shovelStone": {
+      "name": "Stone Shovel"
+    },
+    "glassBottle": {
+      "name": "Glass Bottle"
+    },
+    "pickaxeGold": {
+      "name": "Golden Pickaxe"
+    },
+    "record": {
+      "name": "Music Disc"
+    },
+    "rottenFlesh": {
+      "name": "Rotten Flesh"
+    },
+    "compass": {
+      "name": "Compass"
+    }
+  },
+  "enchantment": {
+    "protect": {
+      "fall": "Feather Falling",
+      "explosion": "Blast Protection",
+      "all": "Protection",
+      "projectile": "Projectile Protection",
+      "fire": "Fire Protection"
+    },
+    "level": {
+      "8": "VIII",
+      "7": "VII",
+      "6": "VI",
+      "5": "V",
+      "4": "IV",
+      "3": "III",
+      "2": "II",
+      "1": "I",
+      "9": "IX",
+      "10": "X"
+    },
+    "arrowKnockback": "Punch",
+    "untouching": "Silk Touch",
+    "damage": {
+      "all": "Sharpness",
+      "arthropods": "Bane of Arthropods",
+      "undead": "Smite"
+    },
+    "knockback": "Knockback",
+    "waterWorker": "Aqua Affinity",
+    "arrowInfinite": "Infinity",
+    "arrowDamage": "Power",
+    "durability": "Unbreaking",
+    "digging": "Efficiency",
+    "oxygen": "Respiration",
+    "arrowFire": "Flame",
+    "lootBonus": "Looting",
+    "lootBonusDigger": "Fortune",
+    "fire": "Fire Aspect"
+  },
+  "demo": {
+    "day": {
+      "2": "Day Two",
+      "1": "This demo will last five game days, do your best!",
+      "4": "Day Four",
+      "3": "Day Three",
+      "6": "You have passed your fifth day, use F2 to save a screenshot of your creation",
+      "5": "This is your last day!",
+      "warning": "Your time is almost up!"
+    },
+    "help": {
+      "jump": "Jump by pressing %1$s",
+      "inventory": "Use %1$s to open your inventory",
+      "movement": "Use %1$s, %2$s, %3$s, %4$s and the mouse to move around"
+    },
+    "reminder": "The demo time has expired, buy the game to continue or start a new world!"
+  },
+  "options": {
+    "renderDistance": "Render Distance",
+    "music": "Music",
+    "difficulty": "Difficulty",
+    "title": "Options",
+    "fov": "FOV",
+    "gamma": "Brightness",
+    "ao": "Smooth Lighting",
+    "guiScale": "GUI Scale",
+    "languageWarning": "Language translations may not be 100% accurate",
+    "graphics": "Graphics",
+    "sensitivity": "Sensitivity",
+    "videoTitle": "Video Settings",
+    "particles": "Particles",
+    "invertMouse": "Invert Mouse",
+    "off": "OFF",
+    "advancedOpengl": "Advanced OpenGL",
+    "renderClouds": "Clouds",
+    "controls": "Controls...",
+    "video": "Video Settings...",
+    "viewBobbing": "View Bobbing",
+    "sound": "Sound",
+    "on": "ON",
+    "language": "Language...",
+    "farWarning1": "A 64 bit Java installation is recommended",
+    "farWarning2": "for 'Far' render distance (you have 32 bit)",
+    "anaglyph": "3D Anaglyph",
+    "framerateLimit": "Performance"
+  },
+  "tile": {
+    "thinGlass": {
+      "name": "Glass Pane"
+    },
+    "netherStalk": {
+      "name": "Nether Wart"
+    },
+    "leaves": {
+      "name": "Leaves"
+    },
+    "bookshelf": {
+      "name": "Bookshelf"
+    },
+    "hellsand": {
+      "name": "Soul Sand"
+    },
+    "stoneSlab": {
+      "brick": {
+        "name": "Bricks Slab"
+      },
+      "cobble": {
+        "name": "Cobblestone Slab"
+      },
+      "sand": {
+        "name": "Sandstone Slab"
+      },
+      "stone": {
+        "name": "Stone Slab"
+      },
+      "smoothStoneBrick": {
+        "name": "Stone Bricks Slab"
+      },
+      "wood": {
+        "name": "Wooden Slab"
+      }
+    },
+    "stoneMoss": {
+      "name": "Moss Stone"
+    },
+    "stonebrick": {
+      "name": "Cobblestone"
+    },
+    "lightgem": {
+      "name": "Glowstone"
+    },
+    "melon": {
+      "name": "Melon"
+    },
+    "blockLapis": {
+      "name": "Lapis Lazuli Block"
+    },
+    "cloth": {
+      "name": "Wool",
+      "red": {
+        "name": "Red Wool"
+      },
+      "magenta": {
+        "name": "Magenta Wool"
+      },
+      "pink": {
+        "name": "Pink Wool"
+      },
+      "black": {
+        "name": "Black Wool"
+      },
+      "blue": {
+        "name": "Blue Wool"
+      },
+      "cyan": {
+        "name": "Cyan Wool"
+      },
+      "silver": {
+        "name": "Light Gray Wool"
+      },
+      "purple": {
+        "name": "Purple Wool"
+      },
+      "green": {
+        "name": "Green Wool"
+      },
+      "lightBlue": {
+        "name": "Light Blue Wool"
+      },
+      "orange": {
+        "name": "Orange Wool"
+      },
+      "brown": {
+        "name": "Brown Wool"
+      },
+      "yellow": {
+        "name": "Yellow Wool"
+      },
+      "gray": {
+        "name": "Gray Wool"
+      },
+      "lime": {
+        "name": "Lime Wool"
+      },
+      "white": {
+        "name": "Wool"
+      }
+    },
+    "chest": {
+      "name": "Chest"
+    },
+    "log": {
+      "name": "Wood"
+    },
+    "sapling": {
+      "name": "Sapling"
+    },
+    "goldenRail": {
+      "name": "Powered Rail"
+    },
+    "trapdoor": {
+      "name": "Trapdoor"
+    },
+    "vine": {
+      "name": "Vines"
+    },
+    "enchantmentTable": {
+      "name": "Enchantment Table"
+    },
+    "oreLapis": {
+      "name": "Lapis Lazuli Ore"
+    },
+    "grass": {
+      "name": "Grass Block"
+    },
+    "sponge": {
+      "name": "Sponge"
+    },
+    "notGate": {
+      "name": "Redstone Torch"
+    },
+    "detectorRail": {
+      "name": "Detector Rail"
+    },
+    "blockGold": {
+      "name": "Block of Gold"
+    },
+    "dirt": {
+      "name": "Dirt"
+    },
+    "ladder": {
+      "name": "Ladder"
+    },
+    "stone": {
+      "name": "Stone"
+    },
+    "fenceGate": {
+      "name": "Fence Gate"
+    },
+    "bed": {
+      "noSleep": "You can only sleep at night",
+      "occupied": "This bed is occupied",
+      "name": "Bed",
+      "notSafe": "You may not rest now, there are monsters nearby",
+      "notValid": "Your home bed was missing or obstructed"
+    },
+    "mycel": {
+      "name": "Mycelium"
+    },
+    "glass": {
+      "name": "Glass"
+    },
+    "oreCoal": {
+      "name": "Coal Ore"
+    },
+    "lever": {
+      "name": "Lever"
+    },
+    "oreIron": {
+      "name": "Iron Ore"
+    },
+    "flower": {
+      "name": "Flower"
+    },
+    "stairsStone": {
+      "name": "Stone Stairs"
+    },
+    "blockIron": {
+      "name": "Block of Iron"
+    },
+    "gravel": {
+      "name": "Gravel"
+    },
+    "jukebox": {
+      "name": "Jukebox"
+    },
+    "pumpkin": {
+      "name": "Pumpkin"
+    },
+    "lockedchest": {
+      "name": "Locked chest"
+    },
+    "dragonEgg": {
+      "name": "Dragon Egg"
+    },
+    "tallgrass": {
+      "grass": {
+        "name": "Grass"
+      },
+      "name": "Grass",
+      "shrub": {
+        "name": "Shrub"
+      },
+      "fern": {
+        "name": "Fern"
+      }
+    },
+    "snow": {
+      "name": "Snow"
+    },
+    "redstoneDust": {
+      "name": "Redstone Dust"
+    },
+    "bedrock": {
+      "name": "Bedrock"
+    },
+    "cauldron": {
+      "name": "Cauldron"
+    },
+    "deadbush": {
+      "name": "Dead Bush"
+    },
+    "mushroom": {
+      "name": "Mushroom"
+    },
+    "oreDiamond": {
+      "name": "Diamond Ore"
+    },
+    "dispenser": {
+      "name": "Dispenser"
+    },
+    "cake": {
+      "name": "Cake"
+    },
+    "blockDiamond": {
+      "name": "Block of Diamond"
+    },
+    "workbench": {
+      "name": "Crafting Table"
+    },
+    "pistonStickyBase": {
+      "name": "Sticky Piston"
+    },
+    "farmland": {
+      "name": "Farmland"
+    },
+    "button": {
+      "name": "Button"
+    },
+    "clay": {
+      "name": "Clay"
+    },
+    "whiteStone": {
+      "name": "End Stone"
+    },
+    "stairsNetherBrick": {
+      "name": "Nether Brick Stairs"
+    },
+    "waterlily": {
+      "name": "Lily Pad"
+    },
+    "hellrock": {
+      "name": "Netherrack"
+    },
+    "litpumpkin": {
+      "name": "Jack 'o' Lantern"
+    },
+    "brick": {
+      "name": "Bricks"
+    },
+    "stonebricksmooth": {
+      "name": "Stone Bricks"
+    },
+    "oreGold": {
+      "name": "Gold Ore"
+    },
+    "fenceIron": {
+      "name": "Iron Bars"
+    },
+    "fence": {
+      "name": "Fence"
+    },
+    "netherFence": {
+      "name": "Nether Brick Fence"
+    },
+    "rose": {
+      "name": "Rose"
+    },
+    "stairsWood": {
+      "name": "Wooden Stairs"
+    },
+    "mobSpawner": {
+      "name": "Monster Spawner"
+    },
+    "obsidian": {
+      "name": "Obsidian"
+    },
+    "stairsStoneBrickSmooth": {
+      "name": "Stone Brick Stairs"
+    },
+    "fire": {
+      "name": "Fire"
+    },
+    "furnace": {
+      "name": "Furnace"
+    },
+    "crops": {
+      "name": "Crops"
+    },
+    "rail": {
+      "name": "Rail"
+    },
+    "stairsBrick": {
+      "name": "Brick Stairs"
+    },
+    "sign": {
+      "name": "Sign"
+    },
+    "torch": {
+      "name": "Torch"
+    },
+    "doorWood": {
+      "name": "Wooden Door"
+    },
+    "ice": {
+      "name": "Ice"
+    },
+    "water": {
+      "name": "Water"
+    },
+    "sandStone": {
+      "name": "Sandstone"
+    },
+    "web": {
+      "name": "Cobweb"
+    },
+    "cactus": {
+      "name": "Cactus"
+    },
+    "tnt": {
+      "name": "TNT"
+    },
+    "oreRedstone": {
+      "name": "Redstone Ore"
+    },
+    "netherBrick": {
+      "name": "Nether Brick"
+    },
+    "portal": {
+      "name": "Portal"
+    },
+    "doorIron": {
+      "name": "Iron Door"
+    },
+    "pressurePlate": {
+      "name": "Pressure Plate"
+    },
+    "sand": {
+      "name": "Sand"
+    },
+    "musicBlock": {
+      "name": "Note Block"
+    },
+    "wood": {
+      "name": "Wooden Planks"
+    },
+    "pistonBase": {
+      "name": "Piston"
+    },
+    "reeds": {
+      "name": "Sugar cane"
+    },
+    "lava": {
+      "name": "Lava"
+    }
+  },
+  "stat": {
+    "pigOneCm": "Distance by Pig",
+    "leaveGame": "Games quit",
+    "joinMultiplayer": "Multiplayer joins",
+    "mineBlock": "%1$s Mined",
+    "blocksButton": "Blocks",
+    "loadWorld": "Saves loaded",
+    "deaths": "Number of Deaths",
+    "playOneMinute": "Minutes Played",
+    "fishCaught": "Fish Caught",
+    "fallOneCm": "Distance Fallen",
+    "minecartOneCm": "Distance by Minecart",
+    "depleted": "Times Depleted",
+    "swimOneCm": "Distance Swum",
+    "climbOneCm": "Distance Climbed",
+    "flyOneCm": "Distance Flown",
+    "breakItem": "%1$s Depleted",
+    "startGame": "Times played",
+    "generalButton": "General",
+    "drop": "Items Dropped",
+    "diveOneCm": "Distance Dove",
+    "mined": "Times Mined",
+    "jump": "Jumps",
+    "createWorld": "Worlds played",
+    "useItem": "%1$s Used",
+    "boatOneCm": "Distance by Boat",
+    "damageTaken": "Damage Taken",
+    "damageDealt": "Damage Dealt",
+    "walkOneCm": "Distance Walked",
+    "playerKills": "Player Kills",
+    "craftItem": "%1$s Crafted",
+    "itemsButton": "Items",
+    "used": "Times Used",
+    "mobKills": "Mob Kills",
+    "crafted": "Times Crafted"
+  },
+  "entity": {
+    "LavaSlime": {
+      "name": "Magma Cube"
+    },
+    "Villager": {
+      "name": "Villager"
+    },
+    "Wolf": {
+      "name": "Wolf"
+    },
+    "Sheep": {
+      "name": "Sheep"
+    },
+    "Enderman": {
+      "name": "Enderman"
+    },
+    "Snowball": {
+      "name": "Snowball"
+    },
+    "CaveSpider": {
+      "name": "Cave Spider"
+    },
+    "Chicken": {
+      "name": "Chicken"
+    },
+    "PigZombie": {
+      "name": "Pig Zombie"
+    },
+    "EnderDragon": {
+      "name": "Ender Dragon"
+    },
+    "Mob": {
+      "name": "Mob"
+    },
+    "Item": {
+      "name": "Item"
+    },
+    "Monster": {
+      "name": "Monster"
+    },
+    "Silverfish": {
+      "name": "Silverfish"
+    },
+    "Skeleton": {
+      "name": "Skeleton"
+    },
+    "XPOrb": {
+      "name": "Experience Orb"
+    },
+    "Spider": {
+      "name": "Spider"
+    },
+    "Blaze": {
+      "name": "Blaze"
+    },
+    "Creeper": {
+      "name": "Creeper"
+    },
+    "Minecart": {
+      "name": "Minecart"
+    },
+    "Painting": {
+      "name": "Painting"
+    },
+    "PrimedTnt": {
+      "name": "Block of TNT"
+    },
+    "Ghast": {
+      "name": "Ghast"
+    },
+    "FallingSand": {
+      "name": "Falling Block"
+    },
+    "Cow": {
+      "name": "Cow"
+    },
+    "Squid": {
+      "name": "Squid"
+    },
+    "Pig": {
+      "name": "Pig"
+    },
+    "Zombie": {
+      "name": "Zombie"
+    },
+    "Giant": {
+      "name": "Giant"
+    },
+    "Boat": {
+      "name": "Boat"
+    },
+    "generic": {
+      "name": "unknown"
+    },
+    "Slime": {
+      "name": "Slime"
+    },
+    "MushroomCow": {
+      "name": "Mooshroom"
+    },
+    "Arrow": {
+      "name": "arrow"
+    }
+  },
+  "potion": {
+    "damageBoost": "Strength",
+    "prefix": {
+      "elegant": "Elegant",
+      "flat": "Flat",
+      "odorless": "Odorless",
+      "cordial": "Cordial",
+      "smooth": "Smooth",
+      "dashing": "Dashing",
+      "bungling": "Bungling",
+      "debonair": "Debonair",
+      "charming": "Charming",
+      "mundane": "Mundane",
+      "fancy": "Fancy",
+      "clear": "Clear",
+      "thin": "Thin",
+      "suave": "Suave",
+      "bulky": "Bulky",
+      "potent": "Potent",
+      "refined": "Refined",
+      "acrid": "Acrid",
+      "gross": "Gross",
+      "foul": "Foul",
+      "harsh": "Harsh",
+      "bland": "Bland",
+      "awkward": "Awkward",
+      "sparkling": "Sparkling",
+      "thick": "Thick",
+      "buttered": "Buttered",
+      "stinky": "Stinky",
+      "rank": "Rank",
+      "milky": "Milky",
+      "artless": "Artless",
+      "uninteresting": "Uninteresting",
+      "grenade": "Splash",
+      "diffuse": "Diffuse"
+    },
+    "regeneration": "Regeneration",
+    "blindness": "Blindness",
+    "hunger": "Hunger",
+    "harm": "Instant Damage",
+    "moveSlowdown": "Slowness",
+    "confusion": "Nausea",
+    "jump": "Jump Boost",
+    "heal": "Instant Health",
+    "empty": "No Effects",
+    "moveSpeed": "Speed",
+    "waterBreathing": "Water Breathing",
+    "nightVision": "Night Vision",
+    "poison": "Poison",
+    "fireResistance": "Fire Resistance",
+    "digSlowDown": "Mining Fatigue",
+    "invisibility": "Invisibility",
+    "resistance": "Resistance",
+    "weakness": "Weakness",
+    "digSpeed": "Haste",
+    "potency": {
+      "0": "",
+      "3": "IV",
+      "2": "III",
+      "1": "II"
+    }
+  },
+  "achievement": {
+    "killEnemy": "Monster Hunter",
+    "requires": "Requires '%1$s'",
+    "snipeSkeleton": "Sniper Duel",
+    "openInventory": "Taking Inventory",
+    "diamonds": "DIAMONDS!",
+    "buildWorkBench": "Benchmarking",
+    "buildPickaxe": "Time to Mine!",
+    "buildBetterPickaxe": "Getting an Upgrade",
+    "enchantments": "Enchanter",
+    "bakeCake": "The Lie",
+    "overkill": "Overkill",
+    "mineWood": "Getting Wood",
+    "get": "Achievement get!",
+    "ghast": "Return to Sender",
+    "potion": "Local Brewery",
+    "theEnd": "The End?",
+    "buildFurnace": "Hot Topic",
+    "buildSword": "Time to Strike!",
+    "killCow": "Cow Tipper",
+    "theEnd2": "The End.",
+    "portal": "We Need to Go Deeper",
+    "makeBread": "Bake Bread",
+    "acquireIron": "Acquire Hardware",
+    "onARail": "On A Rail",
+    "bookcase": "Librarian",
+    "taken": "Taken!",
+    "buildHoe": "Time to Farm!",
+    "flyPig": "When Pigs Fly",
+    "blazeRod": "Into Fire",
+    "cookFish": "Delicious Fish"
+  },
+  "disconnect": {
+    "closed": "Connection closed",
+    "timeout": "Timed out",
+    "quitting": "Quitting",
+    "lost": "Connection Lost",
+    "endOfStream": "End of stream",
+    "loginFailed": "Failed to login",
+    "overflow": "Buffer overflow",
+    "genericReason": "%s",
+    "kicked": "Was kicked from the game",
+    "loginFailedInfo": "Failed to login: %s",
+    "disconnected": "Disconnected by Server"
+  },
+  "key": {
+    "attack": "Attack",
+    "back": "Back",
+    "sneak": "Sneak",
+    "left": "Left",
+    "forward": "Forward",
+    "jump": "Jump",
+    "pickItem": "Pick Block",
+    "use": "Use Item",
+    "inventory": "Inventory",
+    "drop": "Drop",
+    "chat": "Chat",
+    "mouseButton": "Button %1$s",
+    "playerlist": "List Players",
+    "right": "Right",
+    "fog": "Toggle Fog"
+  },
+  "death": {
+    "thrown": "%1$s was pummeled by %2$s",
+    "drown": "%1$s drowned",
+    "explosion": "%1$s blew up",
+    "mob": "%1$s was slain by %2$s",
+    "inFire": "%1$s went up in flames",
+    "cactus": "%1$s was pricked to death",
+    "fireball": "%1$s was fireballed by %2$s",
+    "magic": "%1$s was killed by magic",
+    "outOfWorld": "%1$s fell out of the world",
+    "generic": "%1$s died",
+    "inWall": "%1$s suffocated in a wall",
+    "fall": "%1$s hit the ground too hard",
+    "lava": "%1$s tried to swim in lava",
+    "player": "%1$s was slain by %2$s",
+    "starve": "%1$s starved to death",
+    "onFire": "%1$s burned to death",
+    "indirectMagic": "%1$s was killed by %2$s",
+    "arrow": "%1$s was shot by %2$s"
+  },
+  "selectWorld": {
+    "gameMode": "Game Mode:",
+    "renameTitle": "Rename World",
+    "mapType": "World Type:",
+    "resultFolder": "Will be saved in:",
+    "world": "World",
+    "deleteButton": "Delete",
+    "hardcoreMode": "Hardcore:",
+    "title": "Select World",
+    "deleteWarning": "will be lost forever! (A long time!)",
+    "create": "Create New World",
+    "conversion": "Must be converted!",
+    "renameButton": "Rename",
+    "rename": "Rename",
+    "seedInfo": "Leave blank for a random seed",
+    "newWorld": "New World",
+    "mapFeatures": "Generate Structures:",
+    "select": "Play Selected World",
+    "createDemo": "Play New Demo World",
+    "delete": "Delete",
+    "empty": "empty",
+    "enterSeed": "Seed for the World Generator",
+    "deleteQuestion": "Are you sure you want to delete this world?",
+    "enterName": "World Name",
+    "moreWorldOptions": "More World Options..."
+  },
+  "selectServer": {
+    "refresh": "Refresh",
+    "empty": "empty",
+    "delete": "Delete",
+    "title": "Select Server",
+    "direct": "Direct Connect",
+    "deleteButton": "Delete",
+    "defaultName": "Minecraft Server",
+    "add": "Add server",
+    "deleteQuestion": "Are you sure you want to remove this server?",
+    "edit": "Edit",
+    "select": "Join Server",
+    "deleteWarning": "will be lost forever! (A long time!)"
+  },
+  "menu": {
+    "returnToMenu": "Save and Quit to Title",
+    "singleplayer": "Singleplayer",
+    "disconnect": "Disconnect",
+    "switchingLevel": "Switching level",
+    "returnToGame": "Back to Game",
+    "multiplayer": "Multiplayer",
+    "simulating": "Simulating the world for a bit",
+    "generatingTerrain": "Building terrain",
+    "options": "Options...",
+    "mods": "Texture Packs",
+    "respawning": "Respawning",
+    "quit": "Quit Game",
+    "generatingLevel": "Generating level",
+    "loadingLevel": "Loading level"
+  },
+  "addServer": {
+    "enterIp": "Server Address",
+    "title": "Edit Server Info",
+    "add": "Done",
+    "enterName": "Server Name"
+  },
+  "texturePack": {
+    "openFolder": "Open texture pack folder",
+    "folderInfo": "(Place texture pack files here)",
+    "title": "Select Texture Pack"
+  },
+  "gameMode": {
+    "hardcore": "Hardcore Mode!",
+    "survival": "Survival Mode",
+    "changed": "Your game mode has been changed",
+    "creative": "Creative Mode"
+  },
+  "multiplayer": {
+    "downloadingTerrain": "Downloading terrain",
+    "info1": "Minecraft Multiplayer is currently not finished, but there",
+    "info2": "is some buggy early testing going on.",
+    "stopSleeping": "Leave Bed",
+    "connect": "Connect",
+    "title": "Play Multiplayer",
+    "ipinfo": "Enter the IP of a server to connect to it:"
+  },
+  "performance": {
+    "max": "Max FPS",
+    "powersaver": "Power saver",
+    "balanced": "Balanced"
+  },
+  "gui": {
+    "no": "No",
+    "yes": "Yes",
+    "up": "Up",
+    "cancel": "Cancel",
+    "stats": "Statistics",
+    "done": "Done",
+    "toMenu": "Back to title screen",
+    "achievements": "Achievements",
+    "down": "Down"
+  },
+  "deathScreen": {
+    "titleScreen": "Title screen",
+    "respawn": "Respawn",
+    "title": "You died!",
+    "deleteWorld": "Delete world",
+    "score": "Score",
+    "hardcoreInfo": "You cannot respawn in hardcore mode!"
+  },
+  "generator": {
+    "flat": "Superflat",
+    "default": "Default"
+  },
+  "language": {
+    "region": "US",
+    "code": "en_US",
+    "name": "English"
+  },
+  "connect": {
+    "connecting": "Connecting to the server...",
+    "authorizing": "Logging in...",
+    "failed": "Failed to connect to the server"
+  },
+  "controls": {
+    "title": "Controls"
+  }
+}
